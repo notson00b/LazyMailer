@@ -1,7 +1,7 @@
 # LazyMailer
 
 
-This tool was made just to reduce my pain to send emails. Was bored copying and pasting and hitting alt+tab continuously!! 
+This tool was made just to reduce my pain to send emails. Was bored copying and pasting and hitting alt+tab continuously!! I am jobhunting and this saves time in sending the same mail over and over again. 
 
 This tool was develepoed in Linux environment. It does work with windows too but there are some file permission issues that I encountered.
 Didn't care to find a solution sorry as the tool is already serving its purpose for me UwU.
